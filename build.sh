@@ -48,7 +48,7 @@ else
   usage
 fi
 
-version=${version}-sql-linux-${today}.${order}
+version=${version}-${today}.${order}
 CMD_HOME=$(dirname "$0")
 
 if [ "${repository: -1}" != "/" ]; then
