@@ -56,3 +56,5 @@ if [ "${repository: -1}" != "/" ]; then
 fi
 
 docker buildx build --platform=${platform} -f ${db_type}.Dockerfile -t ${repository}${db_type_lower}:${version} ${CMD_HOME}
+
+docker push ${repository}${db_type_lower}:${version}

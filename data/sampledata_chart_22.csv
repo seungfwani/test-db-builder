@@ -1,0 +1,126 @@
+link,id,color,radius
+Proto Indo-European,Proto Indo-European,#304FFE,30
+Proto Indo-European,Balto-Slavic,#80D8FF,20
+Proto Indo-European,Germanic,#80D8FF,20
+Proto Indo-European,Celtic,#80D8FF,20
+Proto Indo-European,Italic,#80D8FF,20
+Proto Indo-European,Hellenic,#80D8FF,20
+Proto Indo-European,Anatolian,#80D8FF,20
+Proto Indo-European,Indo-Iranian,#80D8FF,20
+Proto Indo-European,Tocharian,#80D8FF,20
+Indo-Iranian,Dardic,#43A047,10
+Indo-Iranian,Indic,#43A047,10
+Indo-Iranian,Iranian,#43A047,10
+Iranian,Old Persian,#FFC400,5
+Old Persian,Middle Persian,#FFC400,5
+Indic,Sanskrit,#FFC400,5
+Italic,Osco-Umbrian,#43A047,10
+Italic,Latino-Faliscan,#43A047,10
+Latino-Faliscan,Latin,#FFC400,5
+Celtic,Brythonic,#43A047,10
+Celtic,Goidelic,#43A047,10
+Germanic,North Germanic,#43A047,10
+Germanic,West Germanic,#43A047,10
+Germanic,East Germanic,#43A047,10
+North Germanic,Old Norse,#FFC400,5
+North Germanic,Old Swedish,#FFC400,5
+North Germanic,Old Danish,#FFC400,5
+West Germanic,Old English,#FFC400,5
+West Germanic,Old Frisian,#FFC400,5
+West Germanic,Old Dutch,#FFC400,5
+West Germanic,Old Low German,#FFC400,5
+West Germanic,Old High German,#FFC400,5
+Old Norse,Old Icelandic,#FFC400,5
+Old Norse,Old Norwegian,#FFC400,5
+Old Norwegian,Middle Norwegian,#FFC400,5
+Old Swedish,Middle Swedish,#FFC400,5
+Old Danish,Middle Danish,#FFC400,5
+Old English,Middle English,#FFC400,5
+Old Dutch,Middle Dutch,#FFC400,5
+Old Low German,Middle Low German,#FFC400,5
+Old High German,Middle High German,#FFC400,5
+Balto-Slavic,Baltic,#43A047,10
+Balto-Slavic,Slavic,#43A047,10
+Slavic,East Slavic,#FFC400,5
+Slavic,West Slavic,#FFC400,5
+Slavic,South Slavic,#FFC400,5
+Proto Indo-European,Phrygian,#80D8FF,20
+Proto Indo-European,Armenian,#80D8FF,20
+Proto Indo-European,Albanian,#80D8FF,20
+Proto Indo-European,Thracian,#80D8FF,20
+Tocharian,Tocharian A,#43A047,10
+Tocharian,Tocharian B,#43A047,10
+Anatolian,Hittite,#43A047,10
+Anatolian,Palaic,#43A047,10
+Anatolian,Luwic,#43A047,10
+Anatolian,Lydian,#43A047,10
+Iranian,Balochi,#FFC400,5
+Iranian,Kurdish,#FFC400,5
+Iranian,Pashto,#FFC400,5
+Iranian,Sogdian,#FFC400,5
+Old Persian,Pahlavi,#FFC400,5
+Middle Persian,Persian,#FFC400,5
+Hellenic,Greek,#43A047,10
+Dardic,Dard,#FFC400,5
+Sanskrit,Sindhi,#FFC400,5
+Sanskrit,Romani,#FFC400,5
+Sanskrit,Urdu,#FFC400,5
+Sanskrit,Hindi,#FFC400,5
+Sanskrit,Bihari,#FFC400,5
+Sanskrit,Assamese,#FFC400,5
+Sanskrit,Bengali,#FFC400,5
+Sanskrit,Marathi,#FFC400,5
+Sanskrit,Gujarati,#FFC400,5
+Sanskrit,Punjabi,#FFC400,5
+Sanskrit,Sinhalese,#FFC400,5
+Osco-Umbrian,Umbrian,#FFC400,5
+Osco-Umbrian,Oscan,#FFC400,5
+Latino-Faliscan,Faliscan,#FFC400,5
+Latin,Portugese,#FFC400,5
+Latin,Spanish,#FFC400,5
+Latin,French,#FFC400,5
+Latin,Romanian,#FFC400,5
+Latin,Italian,#FFC400,5
+Latin,Catalan,#FFC400,5
+Latin,Franco-Provençal,#FFC400,5
+Latin,Rhaeto-Romance,#FFC400,5
+Brythonic,Welsh,#FFC400,5
+Brythonic,Breton,#FFC400,5
+Brythonic,Cornish,#FFC400,5
+Brythonic,Cuymbric,#FFC400,5
+Goidelic,Modern Irish,#FFC400,5
+Goidelic,Scottish Gaelic,#FFC400,5
+Goidelic,Manx,#FFC400,5
+East Germanic,Gothic,#FFC400,5
+Middle Low German,Low German,#FFC400,5
+Middle High German,(High) German,#FFC400,5
+Middle High German,Yiddish,#FFC400,5
+Middle English,English,#FFC400,5
+Middle Dutch,Hollandic,#FFC400,5
+Middle Dutch,Flemish,#FFC400,5
+Middle Dutch,Dutch,#FFC400,5
+Middle Dutch,Limburgish,#FFC400,5
+Middle Dutch,Brabantian,#FFC400,5
+Middle Dutch,Rhinelandic,#FFC400,5
+Old Frisian,Frisian,#FFC400,5
+Middle Danish,Danish,#FFC400,5
+Middle Swedish,Swedish,#FFC400,5
+Middle Norwegian,Norwegian,#FFC400,5
+Old Norse,Faroese,#FFC400,5
+Old Icelandic,Icelandic,#FFC400,5
+Baltic,Old Prussian,#FFC400,5
+Baltic,Lithuanian,#FFC400,5
+Baltic,Latvian,#FFC400,5
+West Slavic,Polish,#FFC400,5
+West Slavic,Slovak,#FFC400,5
+West Slavic,Czech,#FFC400,5
+West Slavic,Wendish,#FFC400,5
+East Slavic,Bulgarian,#FFC400,5
+East Slavic,Old Church Slavonic,#FFC400,5
+East Slavic,Macedonian,#FFC400,5
+East Slavic,Serbo-Croatian,#FFC400,5
+East Slavic,Slovene,#FFC400,5
+South Slavic,Russian,#FFC400,5
+South Slavic,Ukrainian,#FFC400,5
+South Slavic,Belarusian,#FFC400,5
+South Slavic,Rusyn,#FFC400,5
