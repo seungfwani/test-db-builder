@@ -3,6 +3,7 @@ FROM mysql:8.0
 LABEL description="MySQL with test data"
 
 #COPY sql/mysql /docker-entrypoint-initdb.d
+COPY config/mysql/mysql.cnf /etc/mysql/my.cnf
 COPY schema/mysql/ /docker-entrypoint-initdb.d/
 COPY data/ /data
 COPY generate_sql.sh /generate_sql.sh
